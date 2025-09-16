@@ -1,4 +1,4 @@
-# Hi, I'm L 👋
+# Hi, I'm L (aka metalhead) 👋
 
 I'm a frontend developer primarily working with **Vue.js**, with a background in graphics and interactive web applications.  
 Lately, I've been exploring **Elixir** and **Phoenix** for fun, and I often work with **WebRTC** for real-time experiences.  
