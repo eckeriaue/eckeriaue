@@ -1,4 +1,4 @@
-# Hi, I'm L (aka metalhead) 👋
+# Hi, I'm L 👋
 
 WebRTC, Vue, Go, Elixir, and a dozen more words I throw around to sound smarter. 
 
